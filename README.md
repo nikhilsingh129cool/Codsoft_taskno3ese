@@ -1,3 +1,5 @@
+ABOUT PROJECT
+
 Home Screen: Display current time and date.
 
 Option to set a new alarm.
